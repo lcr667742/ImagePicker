@@ -5,7 +5,7 @@ An Image picker for Android, this picker can take photo, single or multi pick mo
 
 ###gradle
 ```
-compile 'com.github.huanghaibin:imagepicker:1.0.8'
+compile 'com.github.huanghaibin:imagepicker:1.1.2'
 ```
 
 ###AndroidManifest
